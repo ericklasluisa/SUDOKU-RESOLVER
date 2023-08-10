@@ -1,0 +1,72 @@
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.exe
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.deps.json
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.runtimeconfig.json
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.AssemblyReference.cache
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.SUDOKU.resources
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.Properties.Resources.resources
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.GenerateResource.cache
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.GeneratedMSBuildEditorConfig.editorconfig
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfoInputs.cache
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfo.cs
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.CoreCompileInputs.cache
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\refint\AlgoritmoBacktrackingInterfazGrafica.dll
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.genruntimeconfig.cache
+D:\Leonardo Yaranga\Descargas\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\ref\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.exe
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.deps.json
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.runtimeconfig.json
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.AssemblyReference.cache
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.SUDOKU.resources
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.Properties.Resources.resources
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.GenerateResource.cache
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfoInputs.cache
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfo.cs
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\refint\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.genruntimeconfig.cache
+C:\Users\paqui\Desktop\ESPE\TERCER SEMESTRE\ESTRUCTURA DE DATOS\TERCER PARCIAL\AlgoritmoBacktrackingInterfazGrafica\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\ref\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.exe
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.deps.json
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.runtimeconfig.json
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.SUDOKU.resources
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.Properties.Resources.resources
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfo.cs
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\refint\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.genruntimeconfig.cache
+C:\Users\erick\Desktop\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\ref\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.exe
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.deps.json
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.runtimeconfig.json
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\bin\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.SUDOKU.resources
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.Properties.Resources.resources
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.AssemblyInfo.cs
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\refint\AlgoritmoBacktrackingInterfazGrafica.dll
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.pdb
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\AlgoritmoBacktrackingInterfazGrafica.genruntimeconfig.cache
+C:\Users\erick\Desktop\ESPE\TERCER SEMESTRE\Estructura de Datos\GITHUB\AlgoritmoBacktrackingInterfazGrafica\obj\Debug\net6.0-windows\ref\AlgoritmoBacktrackingInterfazGrafica.dll
