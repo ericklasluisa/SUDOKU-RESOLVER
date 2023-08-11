@@ -1037,7 +1037,7 @@
             button1.Text = "RESOLVER";
             button1.TextAlign = ContentAlignment.MiddleLeft;
             button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            button1.Click += resolver_Click;
             // 
             // btnComprobar
             // 
@@ -1055,7 +1055,7 @@
             btnComprobar.Text = "COMPROBAR";
             btnComprobar.TextAlign = ContentAlignment.MiddleLeft;
             btnComprobar.UseVisualStyleBackColor = true;
-            btnComprobar.Click += button2_Click;
+            btnComprobar.Click += comprobarSolucion_Click;
             // 
             // btnCrear
             // 

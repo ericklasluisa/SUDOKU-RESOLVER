@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yR0IF+oICtK2mvcU2BaYvsTYTkmmcpwDScxwYTogOCLSAxxDdNYGRX2KsKCMlgJxacXpGyUWyotCyMVEwuMCug==",
+  "dgSpecHash": "ybT1vanTQkSSR4uncOCkJhkNMKdLtFBP7MMUmfsRHBRYoPMdMXOA1Df6xEU9dwzrj2CnBuL5Br9zFBj4XKgNSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erick\\Desktop\\ESPE\\TERCER SEMESTRE\\Estructura de Datos\\GITHUB\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj",
+  "projectFilePath": "C:\\Users\\erick\\Desktop\\SUDOKU-RESOLVER\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

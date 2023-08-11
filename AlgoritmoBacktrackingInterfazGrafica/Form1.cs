@@ -71,60 +71,6 @@ namespace AlgoritmoBacktrackingInterfazGrafica
 
         }
 
-        private void generarNuevoJuegoAutoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            //int[,] tablero1 = new int[,]
-            //{
-            //     {0, 7, 0,   0, 0, 0,    0, 8, 0},
-            //     {0, 5, 8,   6, 0, 0,    0, 0, 1},
-            //     {0, 0, 3,   1, 4, 0,    0, 0, 0},
-
-            //     {9, 0, 6,    0, 5, 0,   3, 0, 0},
-            //     {0, 0, 0,    0, 0, 0,    0, 0, 0},
-            //     {0, 0, 5,    0, 2, 0,   1, 0, 7},
-
-            //     {0, 0, 0,   0, 6, 5,    7, 0, 0},
-            //     {3, 0, 0,   0, 0, 1,    9, 2, 0},
-            //     {0, 4, 0,   0, 0, 0,    0, 1, 0},
-            //};
-
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        textBox.Enabled = true;
-
-                    }
-                }
-            }
-            tableroVacio();
-            sudoku.Dimension = tablero1.GetLength(0);
-            tablero1 = sudoku.GenerarTablero();
-
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        textBox.Text = tablero1[fila, columna].ToString();
-                        if (textBox.Text == "0") { textBox.Text = ""; }
-                        if (textBox.Text != "") { textBox.Enabled = false; }
-                    }
-                }
-            }
-
-        }
 
         public void tableroVacio()
         {
@@ -146,138 +92,9 @@ namespace AlgoritmoBacktrackingInterfazGrafica
             }
         }
 
-        private void generarTableroEnBlancoToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        textBox.Enabled = true;
-
-                    }
-                }
-            }
-
-            tableroVacio();
-
-        }
-
-        private void comprobarSolucionToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-            bool bandera = true;
-
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        if (textBox.Text == "")
-                        {
-                            bandera = true;
-                            break;
-                        }
-                        else { bandera = false; }
-
-                    }
-                }
-            }
-
-            if (bandera)
-            {
-                MessageBox.Show("El tablero esta vacio");
-                return;
-            }
-
-            int[,] tablero2 = new int[9, 9];
-
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        if (textBox.Text == "") { textBox.Text = "0"; }
-                        tablero1[fila, columna] = Convert.ToInt32(textBox.Text);
-                    }
-                }
-            }
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        if (textBox.Text == "") { textBox.Text = "0"; }
-                        tablero2[fila, columna] = Convert.ToInt32(textBox.Text);
-                    }
-                }
-            }
 
 
-            sudoku.Dimension = tablero2.GetLength(0);
-            Boolean solucionable = sudoku.resolver(tablero2);
-
-            static bool SonMatricesIguales(int[,] matriz1, int[,] matriz2)
-            {
-                int filas = matriz1.GetLength(0);
-                int columnas = matriz1.GetLength(1);
-
-                if (matriz2.GetLength(0) != filas || matriz2.GetLength(1) != columnas)
-                {
-                    return false;
-                }
-
-                for (int i = 0; i < filas; i++)
-                {
-                    for (int j = 0; j < columnas; j++)
-                    {
-                        if (matriz1[i, j] != matriz2[i, j])
-                        {
-                            return false;
-                        }
-                    }
-                }
-                return true;
-            }
-            bool sonIguales = SonMatricesIguales(tablero2, tablero1);
-
-            if (sonIguales)
-            {
-                MessageBox.Show("La solucion es correcta");
-            }
-            else
-            {
-                MessageBox.Show("La solucion es incorrecta");
-            }
-        }
-
-        private void resolverToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-
-
-        }
-
-        private void resolverToolStripMenuItem1_Click(object sender, EventArgs e)
+        private void resolver_Click(object sender, EventArgs e)
         {
             bool bandera = true;
 
@@ -291,88 +108,8 @@ namespace AlgoritmoBacktrackingInterfazGrafica
 
                     if (controles.Length > 0 && controles[0] is TextBox textBox)
                     {
-                        if (textBox.Text == "") { bandera = true; }
-                        else { bandera = false; }
-
-                    }
-                }
-            }
-            bool solucionable;
-
-
-            if (bandera)
-            {
-                MessageBox.Show("El tablero esta vacio");
-                return;
-            }
-
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        if (textBox.Text == "") { textBox.Text = "0"; }
-                        tablero1[fila, columna] = Convert.ToInt32(textBox.Text);
-                    }
-                }
-            }
-
-            sudoku.Dimension = tablero1.GetLength(0);
-
-
-            solucionable = sudoku.resolver(tablero1);
-
-
-
-
-
-            if (solucionable)
-            {
-
-                for (int fila = 0; fila < 9; fila++)
-                {
-                    for (int columna = 0; columna < 9; columna++)
-                    {
-                        string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                        Control[] controles = this.Controls.Find(nombreControl, true);
-
-                        if (controles.Length > 0 && controles[0] is TextBox textBox)
-                        {
-                            textBox.Text = tablero1[fila, columna].ToString();
-
-                        }
-                    }
-                }
-
-            }
-            else
-            {
-                MessageBox.Show("El tablero no tiene solucion");
-            }
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            bool bandera = true;
-
-            for (int fila = 0; fila < 9; fila++)
-            {
-                for (int columna = 0; columna < 9; columna++)
-                {
-                    string nombreControl = "tB" + fila.ToString() + columna.ToString();
-
-                    Control[] controles = this.Controls.Find(nombreControl, true);
-
-                    if (controles.Length > 0 && controles[0] is TextBox textBox)
-                    {
-                        if (textBox.Text == "") { bandera = true; }
-                        else { bandera = false; }
+                        if (textBox.Text != "") { bandera = false; }
+                        
 
                     }
                 }
@@ -415,7 +152,7 @@ namespace AlgoritmoBacktrackingInterfazGrafica
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void comprobarSolucion_Click(object sender, EventArgs e)
         {
 
             bool bandera = true;
@@ -443,7 +180,7 @@ namespace AlgoritmoBacktrackingInterfazGrafica
 
             if (bandera)
             {
-                MessageBox.Show("El tablero esta vacio");
+                MessageBox.Show("El tablero esta incompleto");
                 return;
             }
 
@@ -524,24 +261,24 @@ namespace AlgoritmoBacktrackingInterfazGrafica
 
             if (e.KeyChar == (char)Keys.Enter)
             {
-                e.Handled = true; // Evita que la tecla "Enter" se procese en el TextBox
+                e.Handled = true; 
                 return;
             }
 
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
-                e.Handled = true; // Evita que el carácter se muestre en el TextBox
+                e.Handled = true;
             }
             else if (char.IsDigit(e.KeyChar))
             {
                 int digit = int.Parse(e.KeyChar.ToString());
                 if (digit < 1 || digit > 9)
                 {
-                    e.Handled = true; // Evita que se ingrese un número fuera del rango 1-9
+                    e.Handled = true;
                 }
                 else if (textBox.Text.Length > 0)
                 {
-                    e.Handled = true; // Evita agregar más números si ya hay uno en el TextBox
+                    e.Handled = true; 
                 }
             }
         }

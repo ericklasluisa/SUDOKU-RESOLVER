@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Desktop\\ESPE\\TERCER SEMESTRE\\Estructura de Datos\\GITHUB\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj": {}
+    "C:\\Users\\erick\\Desktop\\SUDOKU-RESOLVER\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Desktop\\ESPE\\TERCER SEMESTRE\\Estructura de Datos\\GITHUB\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj": {
+    "C:\\Users\\erick\\Desktop\\SUDOKU-RESOLVER\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Desktop\\ESPE\\TERCER SEMESTRE\\Estructura de Datos\\GITHUB\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Desktop\\SUDOKU-RESOLVER\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj",
         "projectName": "AlgoritmoBacktrackingInterfazGrafica",
-        "projectPath": "C:\\Users\\erick\\Desktop\\ESPE\\TERCER SEMESTRE\\Estructura de Datos\\GITHUB\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj",
+        "projectPath": "C:\\Users\\erick\\Desktop\\SUDOKU-RESOLVER\\AlgoritmoBacktrackingInterfazGrafica\\AlgoritmoBacktrackingInterfazGrafica.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Desktop\\ESPE\\TERCER SEMESTRE\\Estructura de Datos\\GITHUB\\AlgoritmoBacktrackingInterfazGrafica\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Desktop\\SUDOKU-RESOLVER\\AlgoritmoBacktrackingInterfazGrafica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
